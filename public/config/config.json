@@ -6,18 +6,16 @@
     "SYMBOL": "ETH",
     "ID": 59140
   },
-  "NFT_NAME": "Shib Jet",
-  "SYMBOL": "SHIBJ",
-  "MAX_SUPPLY": 15000,
-  "FREE_SUPPLY": 1000,
-  "DISPLAY_COST": 0.005,
+  "NFT_NAME": "Hashlips",
+  "SYMBOL": "Hashlips",
+  "MAX_SUPPLY": 3333,
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 10,
-  "MAX_PER_TX_FREE": 3,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/",
   "Telegram": "https://",
   "Discord": "https://",
   "Twitter": "https://",
-  "SHOW_BACKGROUND": false
+  "SHOW_BACKGROUND": true
 }
